@@ -1,4 +1,4 @@
-# Aqui deve conter todas as intruções de uso do seu software.
+EP2 RAFAEL SANTOS TEODOSIO
 
-* Manual do usuário;
-* Quais pontos dos critérios de aceitação foram implementados;
+O ARQUIVO:"JANELA PRINCIPAL" É A JANELA INICIAL DO PROGRAMA E TODAS AS FUNCIONALIDADES ESTÃO LIGADAS Á ELA, INICIAR O PROGAMA POR ELA PARA QUE
+O PROGRAMA FUNCIONE CORRETAMENTE.
